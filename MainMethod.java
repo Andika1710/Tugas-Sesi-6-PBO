@@ -11,7 +11,7 @@ public class MainMethod {
     }
 
     static void pilihLaptop(){
-        System.out.println("1. Lenovo");
+        System.out.println("1. Asus");
         System.out.println("2. Toshiba");
         System.out.println("3. MacBook");
         System.out.println("");
